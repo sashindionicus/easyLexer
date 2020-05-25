@@ -5,13 +5,13 @@ import (
 	"strings"
 )
 
-// Position in the file.
+// Положение в файле.
 type Position struct {
 	Line   int
 	Column int
 }
 
-// Convert to string.
+// Конвертация в строку
 func (p Position) String() string {
 	return fmt.Sprintf("[line:%d, column:%d]", p.Line, p.Column)
 }

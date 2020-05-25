@@ -3,8 +3,7 @@ package easylexer_test
 import (
 	"testing"
 
-	"github.com/macrat/simplexer"
-	//"github.com/macrat/simplexer"
+	"github.com/sashindionicus/easyLexer"
 )
 
 func TestUnknownTokenError(t *testing.T) {

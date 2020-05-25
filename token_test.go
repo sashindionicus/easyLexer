@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/macrat/simplexer"
+	"github.com/sashindionicus/easyLexer"
 )
 
 func ExampleNewRegexpTokenType() {

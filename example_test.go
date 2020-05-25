@@ -3,7 +3,7 @@ package easylexer_test
 import (
 	"fmt"
 	"strings"
-	// вставить пакет
+	"github.com/sashindionicus/easyLexer"
 )
 
 func Example() {

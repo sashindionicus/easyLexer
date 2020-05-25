@@ -4,8 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/macrat/simplexer"
-	//"github.com/macrat/simplexer"
+	"github.com/sashindionicus/easyLexer"
 )
 
 type want struct {
